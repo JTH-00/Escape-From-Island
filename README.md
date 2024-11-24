@@ -25,7 +25,9 @@
 - 김하겸: 자료 수집 및 오브젝트 배치, 제작, 디버깅
 
 ## 🛠 인게임 사진 
-[시작 화면.webm](https://github.com/user-attachments/assets/ca69b7e9-c05e-4c53-81b2-03f27f60f6b5)
-[인게임 화면.webm](https://github.com/user-attachments/assets/25a67a66-2db9-4a0d-9e35-c872410fdff7)
+### 게임 설정
+- ![4-ezgif com-optimize](https://github.com/user-attachments/assets/82f7e5bf-3ddb-4e1e-b2c5-7d58b49c42d9)
+### 인게임 화면
+- ![그림3](https://github.com/user-attachments/assets/c16ff2ef-82af-486e-9315-1eff4b0b4f01)
 
 EXE 파일로 실행해 볼수 있지만, 최적화의 문제로 중간 실행파일 을 하는것을 추천합니다.
